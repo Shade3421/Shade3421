@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shade</h1>
 <h3 align="center">I'm your avarage 13 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
+```py
+pip install a_life
+```
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Shade3421&label=Total%20Views&color=b700bf&style=flat" alt="Total Stars" />
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Shade3421" alt="Total Stars" ></a>
