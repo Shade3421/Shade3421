@@ -12,7 +12,7 @@ pip install a_life
 
 - ✔️ Latest open source project: **[TeddyStealer](https://github.com/Shade3421/TeddyStealer)**
 
-- 🔭 I’m currently working on [nothing]
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **Python**
 
