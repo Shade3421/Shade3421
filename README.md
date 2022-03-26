@@ -12,13 +12,9 @@ pip install a_life
 
 - ✔️ Latest open source project: **[TeddyStealer](https://github.com/Shade3421/TeddyStealer)**
 
-- 🔭 I’m currently working on [Nightmare Tools](https://github.com/Shade3421/Nightmare-Tools)
+- 🔭 I’m currently working on [nothing]
 
 - 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [Nightmare Tools](https://github.com/Shade3421/Nightmare-Tools)
-
-- 🤝 I’m looking for help with [Nightmare Tools](https://github.com/Shade3421/Nightmare-Tools)
 
 - 💬 Ask me about **Debugging or Malware Analysis**
 
