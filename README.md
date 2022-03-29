@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shade</h1>
-<h3 align="center">I'm your avarage 13 year old programmer & nerd. I spend lunch at the library studying instead of having fun outside. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+<h3 align="center">I'm your avarage 13 year old programmer & nerd. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 ```py
 pip install a_life
