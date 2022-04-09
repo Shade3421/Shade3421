@@ -18,7 +18,7 @@ pip install a_life
 
 - 💬 Ask me about **Debugging or Malware Analysis**
 
-- 📫 How to reach me? Add Shade#3421 on [discord](https://shade.army) or mail zero@asapmail.me
+- 📫 Want to reach me? Add Shade#3421 on [discord](https://shade.army) or mail zero@asapmail.me
 
 - 🌐・**Website: [Shade.army](https://shade.army)**
 
