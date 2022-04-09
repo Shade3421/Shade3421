@@ -18,7 +18,7 @@ pip install a_life
 
 - 💬 Ask me about **Debugging or Malware Analysis**
 
-- 📫 How to reach me **Shade#3421**
+- 📫 How to reach me? Add Shade#3421 on [discord](https://shade.army) or mail zero@asapmail.me
 
 - 🌐・**Website: [Shade.army](https://shade.army)**
 
@@ -29,7 +29,7 @@ pip install a_life
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/893896965820149780)](https://discord.com/users/893896965820149780)
 
-</a><img align="low" src="https://github-readme-stats.vercel.app/api/top-langs?username=shade3421&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Shade" /> </p>
+</a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shade3421&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Shade" /> </p>
 
 
 <img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snook hehe"/>
