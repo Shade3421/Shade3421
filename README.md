@@ -1,7 +1,7 @@
 <a href="https://shade.army" target="_blank"> <img src="https://cdn.discordapp.com/attachments/939231338077249577/958902327564185620/shadebannr2.gif?size=4096" alt="Shades's Github"/></a>
 <h3 align="center">I'm your avarage 13 year old programmer & nerd. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
-```py
+```sh-session
 pip install a_life
 ```
 
@@ -22,9 +22,11 @@ pip install a_life
 
 - 🌐・**Website: [Shade.army](https://shade.army)**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shade3421&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Shade" /> </p>
 
 <h3 align="left">Languages I Know/Undertsand:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
