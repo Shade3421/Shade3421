@@ -22,6 +22,7 @@ pip install a_life
 
 - 🌐・**Website: [Shade.army](https://shade.army)**
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/893896965820149780)](https://discord.com/users/893896965820149780)
 
 <p align="left">
 </p>
