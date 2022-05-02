@@ -33,3 +33,6 @@ pip install a_life
 
 
 <img align="center" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="Snook hehe"/>
+
+
+- **₿ Bitcoin: bc1q6rkw45gwrje4ffq476lrfzum0ky8tzde0t52e6**
