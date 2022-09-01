@@ -10,7 +10,7 @@ pip install a_life
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Shade3421" alt="Total Stars" ></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Shade3421" alt="Total Forks"></a> </p>
 
-**Hello everyone that uses my projects and goes to my page as of right now i dont have a pc so dont expect any new projects for a few months but dw i have alot planned for release and alot of unfiished projects on my onedrive <3 also my discord account was termed so my new account is Shade#5958**
+**Hello everyone i am making a return i will be more active on my github and releasing more, i was termed again so my new accunt is Shade#2957**
 
 - **✔️ Latest open source project: [Nightmare](https://github.com/Shade3421/Nightmare-MultiTool)**
 
@@ -20,7 +20,7 @@ pip install a_life
 
 - **💬 Ask me about Debugging or Malware Analysis**
 
-- **📫 Want to reach me? Add Shade#3421 on [discord](https://shade.army) or mail contact.shade@fbi.ac(slow to respond)**
+- **📫 Want to reach me? Add Shade#2957 on [discord](https://shade.army) or mail contact.shade@fbi.ac(slow to respond)**
 
 - **🌐 Website: [Shade.army](https://shade.army)**
 
