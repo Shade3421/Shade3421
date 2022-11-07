@@ -10,7 +10,7 @@ pip install a_life
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff0000&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Shade3421" alt="Total Stars" ></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Shade3421" alt="Total Forks"></a> </p>
 
-**Hello everyone i am making a return i will be more active on my github and releasing more, i was termed again so my new accunt is Shade#2957**
+**Hello everyone so the pc i would use for all my projects has broken so until i get a new pc i wont be releasing projects see you all in 2023 hopfully also discord hates me and terms me monthly so my current account is Shade#0166**
 
 - **✔️ Latest open source project: [Nightmare](https://github.com/Shade3421/Nightmare-MultiTool)**
 
