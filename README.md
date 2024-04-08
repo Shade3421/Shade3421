@@ -1,5 +1,5 @@
 <a href="https://shade.army" target="_blank"> <img src="https://cdn.discordapp.com/attachments/939231338077249577/958902327564185620/shadebannr2.gif?size=4096" alt="Shades's Github"/></a>
-<h3 align="center">I'm your avarage 14 year old programmer & nerd. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
+<h3 align="center">I'm your avarage 15 year old programmer & nerd. Hope you enjoy my GitHub! If you do, drop a follow!</h3>
 
 ```sh-session
 pip install a_life
